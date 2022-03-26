@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat Mar 26 13:51:57 2022
+# Process ID: 5208
+# Current directory: C:/Users/Alex/Desktop/ReactionTest_V1.0
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent4320 C:\Users\Alex\Desktop\ReactionTest_V1.0\ReactionTest_V1.0.xpr
+# Log file: C:/Users/Alex/Desktop/ReactionTest_V1.0/vivado.log
+# Journal file: C:/Users/Alex/Desktop/ReactionTest_V1.0\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Alex/Desktop/ReactionTest_V1.0/ReactionTest_V1.0.xpr
+update_compile_order -fileset sources_1
