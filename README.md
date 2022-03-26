@@ -10,4 +10,6 @@ Ausgang „Green“ leuchten, wenn die Zeit zwischen 50 ms und 500 ms
 liegt, dann soll Ausgang „Yellow“ leuchten, darüber wird der Ausgang „Red“ leuchten.
 Der Ausgang soll bei neuerlichem betätigen von „Start“ wieder rückgesetzt werden.
 
-![Simulationsergebnis](https://github.com/ComandanteChi/ReactionTest/blob/main/Simulation_20sec_1kHz.PNG)
+![Schema](https://github.com/ComandanteChi/ReactionTest/blob/main/Images/schematic.png)
+
+![Simulationsergebnis](https://github.com/ComandanteChi/ReactionTest/blob/main/Images/Simulation_20sec_1kHz.PNG)
